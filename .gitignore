@@ -1,0 +1,14 @@
+# Private user state belongs OUTSIDE this repository.
+# These patterns are a secondary precaution, not a privacy guarantee.
+/private/
+/memory/
+/profiles/
+/episodes/
+/THERAPIST_PROFILE.md
+/CASE_MEMORY.md
+/LEARNING_LOG.md
+.env
+.env.*
+*.log
+__pycache__/
+.DS_Store

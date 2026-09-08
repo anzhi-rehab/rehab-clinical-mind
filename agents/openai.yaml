@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rehab Clinical Mind"
+  short_description: "Personalized rehabilitation reasoning and reflective practice"
+  default_prompt: "Use $rehab-clinical-mind to guide my rehabilitation reasoning through competing hypotheses, safety screening, and reassessment."
