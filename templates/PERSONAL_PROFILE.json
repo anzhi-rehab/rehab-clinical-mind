@@ -1,0 +1,40 @@
+{
+  "schema_version": "0.2",
+  "profile_id": null,
+  "revision": 0,
+  "updated_at": null,
+  "canonical_format": "json",
+  "memory": {
+    "preference": "session-only",
+    "status": "session-only",
+    "private_location": null,
+    "last_verified_revision": null
+  },
+  "context": {
+    "main_practice": null,
+    "clinical_population": [],
+    "reasoning_style": null
+  },
+  "preferred_assessments": [],
+  "preferred_techniques": [],
+  "frequently_used_exercises": [],
+  "reasoning_observations": {
+    "strengths": [],
+    "possible_biases": [],
+    "differential_diagnosis": [],
+    "risk_screening": [],
+    "load_design": [],
+    "functional_training": [],
+    "reassessment": []
+  },
+  "knowledge_sources": [],
+  "current_learning_topics": [],
+  "development_areas": [],
+  "next_training_targets": [],
+  "changes": [],
+  "conflicts": [],
+  "migration": {
+    "from_schema": null,
+    "unmapped_fields": {}
+  }
+}

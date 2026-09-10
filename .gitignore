@@ -12,3 +12,11 @@
 *.log
 __pycache__/
 .DS_Store
+
+# Filled case locks and training data belong in private storage.
+/case-locks/
+/training-logs/
+/PERSONAL_PROFILE.json
+/TRAINING_LOG.json
+/CASE_LOCK.md
+/daily-queue.json

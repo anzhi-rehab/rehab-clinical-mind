@@ -1,0 +1,48 @@
+{
+  "schema_version": "0.2",
+  "event_id": null,
+  "profile_id": null,
+  "case_id": null,
+  "record_type": "real-case-training",
+  "source": {
+    "canonical_url": null,
+    "pmid": null,
+    "pmcid": null,
+    "doi": null,
+    "patient_key": null,
+    "lock_revision": null
+  },
+  "domain": null,
+  "region": null,
+  "case_type": [],
+  "difficulty": null,
+  "completion_status": "not-started",
+  "learner_final_hypothesis": null,
+  "hypothesis_updates": [],
+  "key_assessments": [],
+  "final_judgment": null,
+  "strengths": [],
+  "reasoning_gaps": [],
+  "source_limitations": [],
+  "hints_requested": [],
+  "plan_quality": {
+    "observation_status": "not-observed",
+    "evidence": [],
+    "functional_goal": null,
+    "dose_and_load": null,
+    "progression": null,
+    "regression_and_stop": null
+  },
+  "retest_quality": {
+    "observation_status": "not-observed",
+    "evidence": [],
+    "same_task_and_conditions": null,
+    "immediate": null,
+    "follow_up_and_24h": null
+  },
+  "author_comparison": null,
+  "learning_targets": [],
+  "profile_update_candidates": [],
+  "completed_at": null,
+  "save_status": "draft"
+}

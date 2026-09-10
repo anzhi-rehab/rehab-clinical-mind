@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.2.0 — 2026-09-10
+
+- Add Real Case Guided Reasoning alongside the four original modes.
+- Add source qualification, immutable patient/timepoint locking, five missing-data states and no fabricated test–retest outcomes.
+- Add separate guided, seven-part debrief and daily 2 MSK + 2 stroke workflows.
+- Add MSK, stroke, case-lock, JSON profile and training-log templates.
+- Preserve textbook learning, private memory, preference confidence and v0.1 migration; add claim-scoped A/B/C/D evidence categories.
+- Clarify spoiler handling, explicit reveal triggers, source-limited evaluation and safety overrides.
+- Add v0.2 behavioral scenarios; legacy tests remain historical, not a claim of new full-suite or cross-platform validation.
+
 ## 0.1.0 — 2026-09-08
 
 Initial release package of Rehab Clinical Mind. Remote publication is a separate operation.

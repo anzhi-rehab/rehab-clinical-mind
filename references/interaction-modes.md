@@ -1,5 +1,7 @@
 # Interaction Modes
 
+v0.2路由：以下四种模式继续用于用户提供病例与教学。已进入Real Case Guided Reasoning时，以workflows/real-case-guided.md和debrief.md为准，不执行这里主动列假设/下一步的默认行为。局部评价不触发整例揭示。
+
 ## Mode 1 — Guided Reasoning（默认）
 
 让治疗师作出下一步判断。安全问题直接指出，不为教学让治疗师猜紧急行动。

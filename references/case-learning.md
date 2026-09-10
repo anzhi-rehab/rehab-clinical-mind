@@ -28,3 +28,7 @@
 不存姓名、住址、医院/单位、病历号、联系方式、精确日期、人脸及罕见可识别组合。保留临床必要年龄段、相对时间、任务类别；episode 别名不来自患者姓名。假名化仍可能被重识别，不能保证删名即匿名。无法形成充分去标识摘要时只保留通用反思。
 
 外部搜索不用病例原文、画像或患者细节，仅用一般性临床问题。原始教材和病例不进入公开仓库、示例、issue。教育摘要不替代机构病历和法定记录。
+
+## 真实来源练习
+
+Real Case Guided Reasoning的完整复盘使用workflows/debrief.md和templates/TRAINING_LOG.json。record_type为real-case-training，仍属于educational，不计真实接诊经验。作者方案/结局、用户拟议方案与AI优化分别记录。source-limited、not-observed、not-recorded不等于失败或能力不足。

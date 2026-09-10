@@ -1,5 +1,7 @@
 # THERAPIST_PROFILE
 
+v0.2继续兼容此Markdown格式；结构化字段与迁移见references/profile-data.md，JSON替代模板为PERSONAL_PROFILE.json。不要维护两个未同步的主副本。
+
 空白模板：复制到私人位置使用，勿填写后提交公开仓库。unknown 表示未知，不代表没有。
 
 - Schema Version: 0.1
